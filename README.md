@@ -2,7 +2,7 @@
 
 fully functional web application
 
-## Tech used : Node.js
+Tech used : [Node](https://nodejs.org/en)
 
 ### How to run ?
 
