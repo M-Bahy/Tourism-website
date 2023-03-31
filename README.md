@@ -1,6 +1,6 @@
 # Tourism-website
 
-fully functional web application
+fully functional web application using client/server architecture
 
 Tech used : [Node.js](https://nodejs.org/en)
 
