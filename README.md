@@ -2,7 +2,7 @@
 
 fully functional web application using client/server architecture
 
-Tech used : [Node.js](https://nodejs.org/en)
+Tech used : [Node.js](https://nodejs.org/en) , HTML+CSS
 
 ### How to run ?
 
